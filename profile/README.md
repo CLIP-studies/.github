@@ -9,4 +9,5 @@ As you can see there are multiple repositories:
 ## About us
 
 This project was created for the "Deep Learning" course at <a href="https://www.unitn.it/it">University of Trento</a>, Italy, by two CS master's degree students:
-- GitHub: <a href="https://github.com/ErPreco">ErPreco</a>
+- GitHub: <a href="https://github.com/ErPreco">Andrea Precoma</a>
+- GitHub: <a href="https://github.com/chiamed">Chiara Medei</a>
